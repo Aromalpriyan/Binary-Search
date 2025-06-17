@@ -1,6 +1,3 @@
-# 03 Work
-# Binary Search
-```
 import java.util.Scanner;
 
 public class binarySearch{
@@ -39,5 +36,3 @@ if(result==-1){
 
         }
     }
-```
-[githublink]()
